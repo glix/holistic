@@ -1,0 +1,53 @@
+.my_meta_control .description
+{ display:none; }
+
+.my_meta_control label
+{ 
+	font-weight:bold; margin:6px; margin-bottom:0; margin-top:5px; }
+
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+
+.my_meta_control span
+{ color:#999; display:block; }
+
+.my_meta_control textarea, .my_meta_control input[type='text']
+{ margin-bottom:6px; margin-top:6px;width:350px; }
+
+.my_meta_control h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+.my_meta_control h3{
+	margin:10px 0px 10px 0px ;
+	padding-left:0px;
+	text-align: left;
+	border-top:1px solid #eee;
+	border-bottom:1px solid #eee;
+}
+.the-title{
+	float:left;
+	width: 300px;
+	text-align: left;
+}
+.wp-list-table tr th#reviews	{
+	
+	text-align: center;
+	
+}
+.wp-list-table tr td.column-reviews{
+	text-align: center;
+}
+input[type=checkbox] {
+	margin: 0px 10px 5px 22px;
+}
+.bottom-padding{
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.bottom-padding .featured{
+	margin-top: -4px;
+	padding-left: 10px;
+}
+.link-padding{
+	padding:0px 10px 10px 10px;
+}
